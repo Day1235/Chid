@@ -3647,8 +3647,37 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/PW2CnHH/rtbsukma.png" group-title="WORLD TV", RTB SUKMAINDERA
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+hbo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbo.jpg" group-title="HBO", HBO Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbo.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-name="HBO HITS HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbohits.jpg" group-title="HBO", HBO HITS Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbohits.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-name="HBO FAMILY HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbofamily.jpg" group-title="HBO", HBO FAMILY Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbofam.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF: -1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/hbosign.jpg" group-title="HBO", HBO SIGNATURE Auto
+https://dev-galaxy-lifetime.pantheonsite.io/hbosign.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
+
+#
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://dev-galaxy-lifetime.pantheonsite.io/cinemax.jpg" group-title="HBO",CINEMAX Auto
+https://dev-galaxy-lifetime.pantheonsite.io/cinemax.mpd|http-referrer=https://dev-galaxy-lifetime.pantheonsite.io/galaxy
 
 
 
