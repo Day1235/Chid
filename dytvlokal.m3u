@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="" group-title="LOKAL",DONASI untuk membuka ch permium 
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXTINF:-1 group-title="Info"
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/V666K2Jv/tv-kesehatan.png" group-title="LOKAL",Hidup Sehat   
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
